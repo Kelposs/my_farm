@@ -1,4 +1,4 @@
-# Vanilla Traceability App
+# My Farm App
 
 ![MyFarm_Git](https://github.com/Kelposs/my_farm/assets/105833652/5a88c554-6b6b-4c09-9fbb-6406081bce98)
 
