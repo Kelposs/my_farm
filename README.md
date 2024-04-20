@@ -71,7 +71,7 @@ OTP機能は、取得したユーザー名とパスワードのペアを複数�
 - flutter pub getを実行してプロジェクトの依存関係を取得する
 - flutter runを使ってアプリケーションを起動する
 ### 使用技術とパッケージ
-- Flutter（最新バージョン）
+- Flutter（3.16.9）
 - 著者である私によるFigmaのUI/UXデザイン
 - GetX
 - google_fonts
